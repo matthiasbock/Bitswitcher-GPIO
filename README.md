@@ -11,7 +11,7 @@ This mod adds control over the board's GPIO pins via ssh as well as a web-interf
 License: GNU General Public License (GPL)
 
 
-How to checkout the latest revision of BitSwitcher
+How to check out the latest revision of Bitswitcher
 ===============================
 
  svn co https://bitswitcher.svn.sourceforge.net/svnroot/bitswitcher/trunk bitswitcher
