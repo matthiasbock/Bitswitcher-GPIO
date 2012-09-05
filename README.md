@@ -7,3 +7,5 @@ which is hosted on Sourceforge:
 https://sourceforge.net/projects/bitswitcher/
 
 This mod adds control over the board's GPIO pins via ssh as well as a web-interface.
+
+License: GNU General Public License (GPL)
