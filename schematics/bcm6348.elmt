@@ -1,0 +1,512 @@
+<definition type="element" version="0.22" width="300" height="300" hotspot_x="150" hotspot_y="150" orientation="dyyy">
+    <names>
+        <name lang="en">Broadcom BCM6348 ADSL+ System-on-Chip</name>
+    </names>
+    <informations></informations>
+    <description>
+        <rect x="-135" y="-135" width="270" height="270" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect x="-75" y="-75" width="150" height="150" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text x="-43" y="17" size="9" text="BCM6348KPB"/>
+        <text x="-51" y="-8.33333" size="13" text="BROADCOM"/>
+        <terminal x="-125" y="-125" orientation="n"/>
+        <terminal x="-115" y="-125" orientation="n"/>
+        <terminal x="-105" y="-125" orientation="n"/>
+        <terminal x="-95" y="-125" orientation="n"/>
+        <terminal x="-85" y="-125" orientation="n"/>
+        <terminal x="-75" y="-125" orientation="n"/>
+        <terminal x="-65" y="-125" orientation="n"/>
+        <terminal x="-55" y="-125" orientation="n"/>
+        <terminal x="-45" y="-125" orientation="n"/>
+        <terminal x="-35" y="-125" orientation="n"/>
+        <terminal x="-25" y="-125" orientation="n"/>
+        <terminal x="-15" y="-125" orientation="n"/>
+        <terminal x="-5" y="-125" orientation="n"/>
+        <terminal x="5" y="-125" orientation="n"/>
+        <terminal x="15" y="-125" orientation="n"/>
+        <terminal x="25" y="-125" orientation="n"/>
+        <terminal x="35" y="-125" orientation="n"/>
+        <terminal x="45" y="-125" orientation="n"/>
+        <terminal x="55" y="-125" orientation="n"/>
+        <terminal x="65" y="-125" orientation="n"/>
+        <terminal x="75" y="-125" orientation="n"/>
+        <terminal x="85" y="-125" orientation="n"/>
+        <terminal x="95" y="-125" orientation="n"/>
+        <terminal x="105" y="-125" orientation="n"/>
+        <terminal x="115" y="-125" orientation="n"/>
+        <terminal x="125" y="-125" orientation="n"/>
+        <terminal x="-125" y="-115" orientation="n"/>
+        <terminal x="-115" y="-115" orientation="n"/>
+        <terminal x="-105" y="-115" orientation="n"/>
+        <terminal x="-95" y="-115" orientation="n"/>
+        <terminal x="-85" y="-115" orientation="n"/>
+        <terminal x="-75" y="-115" orientation="n"/>
+        <terminal x="-65" y="-115" orientation="n"/>
+        <terminal x="-55" y="-115" orientation="n"/>
+        <terminal x="-45" y="-115" orientation="n"/>
+        <terminal x="-35" y="-115" orientation="n"/>
+        <terminal x="-25" y="-115" orientation="n"/>
+        <terminal x="-15" y="-115" orientation="n"/>
+        <terminal x="-5" y="-115" orientation="n"/>
+        <terminal x="5" y="-115" orientation="n"/>
+        <terminal x="15" y="-115" orientation="n"/>
+        <terminal x="25" y="-115" orientation="n"/>
+        <terminal x="35" y="-115" orientation="n"/>
+        <terminal x="45" y="-115" orientation="n"/>
+        <terminal x="55" y="-115" orientation="n"/>
+        <terminal x="65" y="-115" orientation="n"/>
+        <terminal x="75" y="-115" orientation="n"/>
+        <terminal x="85" y="-115" orientation="n"/>
+        <terminal x="95" y="-115" orientation="n"/>
+        <terminal x="105" y="-115" orientation="n"/>
+        <terminal x="115" y="-115" orientation="n"/>
+        <terminal x="125" y="-115" orientation="n"/>
+        <terminal x="-125" y="-105" orientation="n"/>
+        <terminal x="-115" y="-105" orientation="n"/>
+        <terminal x="-105" y="-105" orientation="n"/>
+        <terminal x="-95" y="-105" orientation="n"/>
+        <terminal x="-85" y="-105" orientation="n"/>
+        <terminal x="-75" y="-105" orientation="n"/>
+        <terminal x="-65" y="-105" orientation="n"/>
+        <terminal x="-55" y="-105" orientation="n"/>
+        <terminal x="-45" y="-105" orientation="n"/>
+        <terminal x="-35" y="-105" orientation="n"/>
+        <terminal x="-25" y="-105" orientation="n"/>
+        <terminal x="-15" y="-105" orientation="n"/>
+        <terminal x="-5" y="-105" orientation="n"/>
+        <terminal x="5" y="-105" orientation="n"/>
+        <terminal x="15" y="-105" orientation="n"/>
+        <terminal x="25" y="-105" orientation="n"/>
+        <terminal x="35" y="-105" orientation="n"/>
+        <terminal x="45" y="-105" orientation="n"/>
+        <terminal x="55" y="-105" orientation="n"/>
+        <terminal x="65" y="-105" orientation="n"/>
+        <terminal x="75" y="-105" orientation="n"/>
+        <terminal x="85" y="-105" orientation="n"/>
+        <terminal x="95" y="-105" orientation="n"/>
+        <terminal x="105" y="-105" orientation="n"/>
+        <terminal x="115" y="-105" orientation="n"/>
+        <terminal x="125" y="-105" orientation="n"/>
+        <terminal x="-125" y="-95" orientation="n"/>
+        <terminal x="-115" y="-95" orientation="n"/>
+        <terminal x="-105" y="-95" orientation="n"/>
+        <terminal x="-95" y="-95" orientation="n"/>
+        <terminal x="-85" y="-95" orientation="n"/>
+        <terminal x="-75" y="-95" orientation="n"/>
+        <terminal x="-65" y="-95" orientation="n"/>
+        <terminal x="-55" y="-95" orientation="n"/>
+        <terminal x="-45" y="-95" orientation="n"/>
+        <terminal x="-35" y="-95" orientation="n"/>
+        <terminal x="-25" y="-95" orientation="n"/>
+        <terminal x="-15" y="-95" orientation="n"/>
+        <terminal x="-5" y="-95" orientation="n"/>
+        <terminal x="5" y="-95" orientation="n"/>
+        <terminal x="15" y="-95" orientation="n"/>
+        <terminal x="25" y="-95" orientation="n"/>
+        <terminal x="35" y="-95" orientation="n"/>
+        <terminal x="45" y="-95" orientation="n"/>
+        <terminal x="55" y="-95" orientation="n"/>
+        <terminal x="65" y="-95" orientation="n"/>
+        <terminal x="75" y="-95" orientation="n"/>
+        <terminal x="85" y="-95" orientation="n"/>
+        <terminal x="95" y="-95" orientation="n"/>
+        <terminal x="105" y="-95" orientation="n"/>
+        <terminal x="115" y="-95" orientation="n"/>
+        <terminal x="125" y="-95" orientation="n"/>
+        <terminal x="-125" y="-85" orientation="n"/>
+        <terminal x="-115" y="-85" orientation="n"/>
+        <terminal x="-105" y="-85" orientation="n"/>
+        <terminal x="-95" y="-85" orientation="n"/>
+        <terminal x="-85" y="-85" orientation="n"/>
+        <terminal x="-75" y="-85" orientation="n"/>
+        <terminal x="-65" y="-85" orientation="n"/>
+        <terminal x="-55" y="-85" orientation="n"/>
+        <terminal x="-45" y="-85" orientation="n"/>
+        <terminal x="-35" y="-85" orientation="n"/>
+        <terminal x="-25" y="-85" orientation="n"/>
+        <terminal x="-15" y="-85" orientation="n"/>
+        <terminal x="-5" y="-85" orientation="n"/>
+        <terminal x="5" y="-85" orientation="n"/>
+        <terminal x="15" y="-85" orientation="n"/>
+        <terminal x="25" y="-85" orientation="n"/>
+        <terminal x="35" y="-85" orientation="n"/>
+        <terminal x="45" y="-85" orientation="n"/>
+        <terminal x="55" y="-85" orientation="n"/>
+        <terminal x="65" y="-85" orientation="n"/>
+        <terminal x="75" y="-85" orientation="n"/>
+        <terminal x="85" y="-85" orientation="n"/>
+        <terminal x="95" y="-85" orientation="n"/>
+        <terminal x="105" y="-85" orientation="n"/>
+        <terminal x="115" y="-85" orientation="n"/>
+        <terminal x="125" y="-85" orientation="n"/>
+        <terminal x="-125" y="-75" orientation="w"/>
+        <terminal x="-115" y="-75" orientation="w"/>
+        <terminal x="-105" y="-75" orientation="w"/>
+        <terminal x="-95" y="-75" orientation="w"/>
+        <terminal x="-85" y="-75" orientation="w"/>
+        <terminal x="85" y="-75" orientation="e"/>
+        <terminal x="95" y="-75" orientation="e"/>
+        <terminal x="105" y="-75" orientation="e"/>
+        <terminal x="115" y="-75" orientation="e"/>
+        <terminal x="125" y="-75" orientation="e"/>
+        <terminal x="-125" y="-65" orientation="w"/>
+        <terminal x="-115" y="-65" orientation="w"/>
+        <terminal x="-105" y="-65" orientation="w"/>
+        <terminal x="-95" y="-65" orientation="w"/>
+        <terminal x="-85" y="-65" orientation="w"/>
+        <terminal x="85" y="-65" orientation="e"/>
+        <terminal x="95" y="-65" orientation="e"/>
+        <terminal x="105" y="-65" orientation="e"/>
+        <terminal x="115" y="-65" orientation="e"/>
+        <terminal x="125" y="-65" orientation="e"/>
+        <terminal x="-125" y="-55" orientation="w"/>
+        <terminal x="-115" y="-55" orientation="w"/>
+        <terminal x="-105" y="-55" orientation="w"/>
+        <terminal x="-95" y="-55" orientation="w"/>
+        <terminal x="-85" y="-55" orientation="w"/>
+        <terminal x="85" y="-55" orientation="e"/>
+        <terminal x="95" y="-55" orientation="e"/>
+        <terminal x="105" y="-55" orientation="e"/>
+        <terminal x="115" y="-55" orientation="e"/>
+        <terminal x="125" y="-55" orientation="e"/>
+        <terminal x="-125" y="-45" orientation="w"/>
+        <terminal x="-115" y="-45" orientation="w"/>
+        <terminal x="-105" y="-45" orientation="w"/>
+        <terminal x="-95" y="-45" orientation="w"/>
+        <terminal x="-85" y="-45" orientation="w"/>
+        <terminal x="85" y="-45" orientation="e"/>
+        <terminal x="95" y="-45" orientation="e"/>
+        <terminal x="105" y="-45" orientation="e"/>
+        <terminal x="115" y="-45" orientation="e"/>
+        <terminal x="125" y="-45" orientation="e"/>
+        <terminal x="-125" y="-35" orientation="w"/>
+        <terminal x="-115" y="-35" orientation="w"/>
+        <terminal x="-105" y="-35" orientation="w"/>
+        <terminal x="-95" y="-35" orientation="w"/>
+        <terminal x="-85" y="-35" orientation="w"/>
+        <terminal x="85" y="-35" orientation="e"/>
+        <terminal x="95" y="-35" orientation="e"/>
+        <terminal x="105" y="-35" orientation="e"/>
+        <terminal x="115" y="-35" orientation="e"/>
+        <terminal x="125" y="-35" orientation="e"/>
+        <terminal x="-125" y="-25" orientation="w"/>
+        <terminal x="-115" y="-25" orientation="w"/>
+        <terminal x="-105" y="-25" orientation="w"/>
+        <terminal x="-95" y="-25" orientation="w"/>
+        <terminal x="-85" y="-25" orientation="w"/>
+        <terminal x="85" y="-25" orientation="e"/>
+        <terminal x="95" y="-25" orientation="e"/>
+        <terminal x="105" y="-25" orientation="e"/>
+        <terminal x="115" y="-25" orientation="e"/>
+        <terminal x="125" y="-25" orientation="e"/>
+        <terminal x="-125" y="-15" orientation="w"/>
+        <terminal x="-115" y="-15" orientation="w"/>
+        <terminal x="-105" y="-15" orientation="w"/>
+        <terminal x="-95" y="-15" orientation="w"/>
+        <terminal x="-85" y="-15" orientation="w"/>
+        <terminal x="85" y="-15" orientation="e"/>
+        <terminal x="95" y="-15" orientation="e"/>
+        <terminal x="105" y="-15" orientation="e"/>
+        <terminal x="115" y="-15" orientation="e"/>
+        <terminal x="125" y="-15" orientation="e"/>
+        <terminal x="-125" y="-5" orientation="w"/>
+        <terminal x="-115" y="-5" orientation="w"/>
+        <terminal x="-105" y="-5" orientation="w"/>
+        <terminal x="-95" y="-5" orientation="w"/>
+        <terminal x="-85" y="-5" orientation="w"/>
+        <terminal x="85" y="-5" orientation="e"/>
+        <terminal x="95" y="-5" orientation="e"/>
+        <terminal x="105" y="-5" orientation="e"/>
+        <terminal x="115" y="-5" orientation="e"/>
+        <terminal x="125" y="-5" orientation="e"/>
+        <terminal x="-125" y="5" orientation="w"/>
+        <terminal x="-115" y="5" orientation="w"/>
+        <terminal x="-105" y="5" orientation="w"/>
+        <terminal x="-95" y="5" orientation="w"/>
+        <terminal x="-85" y="5" orientation="w"/>
+        <terminal x="85" y="5" orientation="e"/>
+        <terminal x="95" y="5" orientation="e"/>
+        <terminal x="105" y="5" orientation="e"/>
+        <terminal x="115" y="5" orientation="e"/>
+        <terminal x="125" y="5" orientation="e"/>
+        <terminal x="-125" y="15" orientation="w"/>
+        <terminal x="-115" y="15" orientation="w"/>
+        <terminal x="-105" y="15" orientation="w"/>
+        <terminal x="-95" y="15" orientation="w"/>
+        <terminal x="-85" y="15" orientation="w"/>
+        <terminal x="85" y="15" orientation="e"/>
+        <terminal x="95" y="15" orientation="e"/>
+        <terminal x="105" y="15" orientation="e"/>
+        <terminal x="115" y="15" orientation="e"/>
+        <terminal x="125" y="15" orientation="e"/>
+        <terminal x="-125" y="25" orientation="w"/>
+        <terminal x="-115" y="25" orientation="w"/>
+        <terminal x="-105" y="25" orientation="w"/>
+        <terminal x="-95" y="25" orientation="w"/>
+        <terminal x="-85" y="25" orientation="w"/>
+        <terminal x="85" y="25" orientation="e"/>
+        <terminal x="95" y="25" orientation="e"/>
+        <terminal x="105" y="25" orientation="e"/>
+        <terminal x="115" y="25" orientation="e"/>
+        <terminal x="125" y="25" orientation="e"/>
+        <terminal x="-125" y="35" orientation="w"/>
+        <terminal x="-115" y="35" orientation="w"/>
+        <terminal x="-105" y="35" orientation="w"/>
+        <terminal x="-95" y="35" orientation="w"/>
+        <terminal x="-85" y="35" orientation="w"/>
+        <terminal x="85" y="35" orientation="e"/>
+        <terminal x="95" y="35" orientation="e"/>
+        <terminal x="105" y="35" orientation="e"/>
+        <terminal x="115" y="35" orientation="e"/>
+        <terminal x="125" y="35" orientation="e"/>
+        <terminal x="-125" y="45" orientation="w"/>
+        <terminal x="-115" y="45" orientation="w"/>
+        <terminal x="-105" y="45" orientation="w"/>
+        <terminal x="-95" y="45" orientation="w"/>
+        <terminal x="-85" y="45" orientation="w"/>
+        <terminal x="85" y="45" orientation="e"/>
+        <terminal x="95" y="45" orientation="e"/>
+        <terminal x="105" y="45" orientation="e"/>
+        <terminal x="115" y="45" orientation="e"/>
+        <terminal x="125" y="45" orientation="e"/>
+        <terminal x="-125" y="55" orientation="w"/>
+        <terminal x="-115" y="55" orientation="w"/>
+        <terminal x="-105" y="55" orientation="w"/>
+        <terminal x="-95" y="55" orientation="w"/>
+        <terminal x="-85" y="55" orientation="w"/>
+        <terminal x="85" y="55" orientation="e"/>
+        <terminal x="95" y="55" orientation="e"/>
+        <terminal x="105" y="55" orientation="e"/>
+        <terminal x="115" y="55" orientation="e"/>
+        <terminal x="125" y="55" orientation="e"/>
+        <terminal x="-125" y="65" orientation="w"/>
+        <terminal x="-115" y="65" orientation="w"/>
+        <terminal x="-105" y="65" orientation="w"/>
+        <terminal x="-95" y="65" orientation="w"/>
+        <terminal x="-85" y="65" orientation="w"/>
+        <terminal x="85" y="65" orientation="e"/>
+        <terminal x="95" y="65" orientation="e"/>
+        <terminal x="105" y="65" orientation="e"/>
+        <terminal x="115" y="65" orientation="e"/>
+        <terminal x="125" y="65" orientation="e"/>
+        <terminal x="-125" y="75" orientation="w"/>
+        <terminal x="-115" y="75" orientation="w"/>
+        <terminal x="-105" y="75" orientation="w"/>
+        <terminal x="-95" y="75" orientation="w"/>
+        <terminal x="-85" y="75" orientation="w"/>
+        <terminal x="85" y="75" orientation="e"/>
+        <terminal x="95" y="75" orientation="e"/>
+        <terminal x="105" y="75" orientation="e"/>
+        <terminal x="115" y="75" orientation="e"/>
+        <terminal x="125" y="75" orientation="e"/>
+        <terminal x="-125" y="85" orientation="s"/>
+        <terminal x="-115" y="85" orientation="s"/>
+        <terminal x="-105" y="85" orientation="s"/>
+        <terminal x="-95" y="85" orientation="s"/>
+        <terminal x="-85" y="85" orientation="s"/>
+        <terminal x="-75" y="85" orientation="s"/>
+        <terminal x="-65" y="85" orientation="s"/>
+        <terminal x="-55" y="85" orientation="s"/>
+        <terminal x="-45" y="85" orientation="s"/>
+        <terminal x="-35" y="85" orientation="s"/>
+        <terminal x="-25" y="85" orientation="s"/>
+        <terminal x="-15" y="85" orientation="s"/>
+        <terminal x="-5" y="85" orientation="s"/>
+        <terminal x="5" y="85" orientation="s"/>
+        <terminal x="15" y="85" orientation="s"/>
+        <terminal x="25" y="85" orientation="s"/>
+        <terminal x="35" y="85" orientation="s"/>
+        <terminal x="45" y="85" orientation="s"/>
+        <terminal x="55" y="85" orientation="s"/>
+        <terminal x="65" y="85" orientation="s"/>
+        <terminal x="75" y="85" orientation="s"/>
+        <terminal x="85" y="85" orientation="s"/>
+        <terminal x="95" y="85" orientation="s"/>
+        <terminal x="105" y="85" orientation="s"/>
+        <terminal x="115" y="85" orientation="s"/>
+        <terminal x="125" y="85" orientation="s"/>
+        <terminal x="-125" y="95" orientation="s"/>
+        <terminal x="-115" y="95" orientation="s"/>
+        <terminal x="-105" y="95" orientation="s"/>
+        <terminal x="-95" y="95" orientation="s"/>
+        <terminal x="-85" y="95" orientation="s"/>
+        <terminal x="-75" y="95" orientation="s"/>
+        <terminal x="-65" y="95" orientation="s"/>
+        <terminal x="-55" y="95" orientation="s"/>
+        <terminal x="-45" y="95" orientation="s"/>
+        <terminal x="-35" y="95" orientation="s"/>
+        <terminal x="-25" y="95" orientation="s"/>
+        <terminal x="-15" y="95" orientation="s"/>
+        <terminal x="-5" y="95" orientation="s"/>
+        <terminal x="5" y="95" orientation="s"/>
+        <terminal x="15" y="95" orientation="s"/>
+        <terminal x="25" y="95" orientation="s"/>
+        <terminal x="35" y="95" orientation="s"/>
+        <terminal x="45" y="95" orientation="s"/>
+        <terminal x="55" y="95" orientation="s"/>
+        <terminal x="65" y="95" orientation="s"/>
+        <terminal x="75" y="95" orientation="s"/>
+        <terminal x="85" y="95" orientation="s"/>
+        <terminal x="95" y="95" orientation="s"/>
+        <terminal x="105" y="95" orientation="s"/>
+        <terminal x="115" y="95" orientation="s"/>
+        <terminal x="125" y="95" orientation="s"/>
+        <terminal x="-125" y="105" orientation="s"/>
+        <terminal x="-115" y="105" orientation="s"/>
+        <terminal x="-105" y="105" orientation="s"/>
+        <terminal x="-95" y="105" orientation="s"/>
+        <terminal x="-85" y="105" orientation="s"/>
+        <terminal x="-75" y="105" orientation="s"/>
+        <terminal x="-65" y="105" orientation="s"/>
+        <terminal x="-55" y="105" orientation="s"/>
+        <terminal x="-45" y="105" orientation="s"/>
+        <terminal x="-35" y="105" orientation="s"/>
+        <terminal x="-25" y="105" orientation="s"/>
+        <terminal x="-15" y="105" orientation="s"/>
+        <terminal x="-5" y="105" orientation="s"/>
+        <terminal x="5" y="105" orientation="s"/>
+        <terminal x="15" y="105" orientation="s"/>
+        <terminal x="25" y="105" orientation="s"/>
+        <terminal x="35" y="105" orientation="s"/>
+        <terminal x="45" y="105" orientation="s"/>
+        <terminal x="55" y="105" orientation="s"/>
+        <terminal x="65" y="105" orientation="s"/>
+        <terminal x="75" y="105" orientation="s"/>
+        <terminal x="85" y="105" orientation="s"/>
+        <terminal x="95" y="105" orientation="s"/>
+        <terminal x="105" y="105" orientation="s"/>
+        <terminal x="115" y="105" orientation="s"/>
+        <terminal x="125" y="105" orientation="s"/>
+        <terminal x="-125" y="115" orientation="s"/>
+        <terminal x="-115" y="115" orientation="s"/>
+        <terminal x="-105" y="115" orientation="s"/>
+        <terminal x="-95" y="115" orientation="s"/>
+        <terminal x="-85" y="115" orientation="s"/>
+        <terminal x="-75" y="115" orientation="s"/>
+        <terminal x="-65" y="115" orientation="s"/>
+        <terminal x="-55" y="115" orientation="s"/>
+        <terminal x="-45" y="115" orientation="s"/>
+        <terminal x="-35" y="115" orientation="s"/>
+        <terminal x="-25" y="115" orientation="s"/>
+        <terminal x="-15" y="115" orientation="s"/>
+        <terminal x="-5" y="115" orientation="s"/>
+        <terminal x="5" y="115" orientation="s"/>
+        <terminal x="15" y="115" orientation="s"/>
+        <terminal x="25" y="115" orientation="s"/>
+        <terminal x="35" y="115" orientation="s"/>
+        <terminal x="45" y="115" orientation="s"/>
+        <terminal x="55" y="115" orientation="s"/>
+        <terminal x="65" y="115" orientation="s"/>
+        <terminal x="75" y="115" orientation="s"/>
+        <terminal x="85" y="115" orientation="s"/>
+        <terminal x="95" y="115" orientation="s"/>
+        <terminal x="105" y="115" orientation="s"/>
+        <terminal x="115" y="115" orientation="s"/>
+        <terminal x="125" y="115" orientation="s"/>
+        <terminal x="-125" y="125" orientation="s"/>
+        <terminal x="-115" y="125" orientation="s"/>
+        <terminal x="-105" y="125" orientation="s"/>
+        <terminal x="-95" y="125" orientation="s"/>
+        <terminal x="-85" y="125" orientation="s"/>
+        <terminal x="-75" y="125" orientation="s"/>
+        <terminal x="-65" y="125" orientation="s"/>
+        <terminal x="-55" y="125" orientation="s"/>
+        <terminal x="-45" y="125" orientation="s"/>
+        <terminal x="-35" y="125" orientation="s"/>
+        <terminal x="-25" y="125" orientation="s"/>
+        <terminal x="-15" y="125" orientation="s"/>
+        <terminal x="-5" y="125" orientation="s"/>
+        <terminal x="5" y="125" orientation="s"/>
+        <terminal x="15" y="125" orientation="s"/>
+        <terminal x="25" y="125" orientation="s"/>
+        <terminal x="35" y="125" orientation="s"/>
+        <terminal x="45" y="125" orientation="s"/>
+        <terminal x="55" y="125" orientation="s"/>
+        <terminal x="65" y="125" orientation="s"/>
+        <terminal x="75" y="125" orientation="s"/>
+        <terminal x="85" y="125" orientation="s"/>
+        <terminal x="95" y="125" orientation="s"/>
+        <terminal x="105" y="125" orientation="s"/>
+        <terminal x="115" y="125" orientation="s"/>
+        <terminal x="125" y="125" orientation="s"/>
+        <text x="-150" y="-122" size="5" text="1"/>
+        <text x="137" y="-122" size="5" text="26"/>
+        <text x="-150" y="-112" size="5" text="27"/>
+        <text x="137" y="-112" size="5" text="52"/>
+        <text x="-150" y="-102" size="5" text="53"/>
+        <text x="137" y="-102" size="5" text="78"/>
+        <text x="-150" y="-92" size="5" text="79"/>
+        <text x="137" y="-92" size="5" text="104"/>
+        <text x="-150" y="-82" size="5" text="105"/>
+        <text x="137" y="-82" size="5" text="130"/>
+        <text x="-150" y="-72" size="5" text="130"/>
+        <text x="137" y="-72" size="5" text="130"/>
+        <text x="-150" y="-62" size="5" text="130"/>
+        <text x="137" y="-62" size="5" text="130"/>
+        <text x="-150" y="-52" size="5" text="130"/>
+        <text x="137" y="-52" size="5" text="130"/>
+        <text x="-150" y="-42" size="5" text="130"/>
+        <text x="137" y="-42" size="5" text="130"/>
+        <text x="-150" y="-32" size="5" text="130"/>
+        <text x="137" y="-32" size="5" text="130"/>
+        <text x="-150" y="-22" size="5" text="130"/>
+        <text x="137" y="-22" size="5" text="130"/>
+        <text x="-150" y="-12" size="5" text="130"/>
+        <text x="137" y="-12" size="5" text="130"/>
+        <text x="-150" y="-2" size="5" text="130"/>
+        <text x="137" y="-2" size="5" text="130"/>
+        <text x="-150" y="8" size="5" text="130"/>
+        <text x="137" y="8" size="5" text="130"/>
+        <text x="-150" y="18" size="5" text="130"/>
+        <text x="137" y="18" size="5" text="130"/>
+        <text x="-150" y="28" size="5" text="130"/>
+        <text x="137" y="28" size="5" text="130"/>
+        <text x="-150" y="38" size="5" text="130"/>
+        <text x="137" y="38" size="5" text="130"/>
+        <text x="-150" y="48" size="5" text="130"/>
+        <text x="137" y="48" size="5" text="130"/>
+        <text x="-150" y="58" size="5" text="130"/>
+        <text x="137" y="58" size="5" text="130"/>
+        <text x="-150" y="68" size="5" text="130"/>
+        <text x="137" y="68" size="5" text="130"/>
+        <text x="-150" y="78" size="5" text="130"/>
+        <text x="137" y="78" size="5" text="130"/>
+        <text x="58" y="-62" size="5" text="130"/>
+        <text x="-70" y="-62" size="5" text="130"/>
+        <text x="58" y="-52" size="5" text="130"/>
+        <text x="-70" y="-52" size="5" text="130"/>
+        <text x="58" y="-42" size="5" text="130"/>
+        <text x="-70" y="-42" size="5" text="130"/>
+        <text x="58" y="-32" size="5" text="130"/>
+        <text x="-70" y="-32" size="5" text="130"/>
+        <text x="58" y="-22" size="5" text="130"/>
+        <text x="-70" y="-22" size="5" text="130"/>
+        <text x="58" y="-12" size="5" text="130"/>
+        <text x="-70" y="-12" size="5" text="130"/>
+        <text x="58" y="-2" size="5" text="130"/>
+        <text x="-70" y="-2" size="5" text="130"/>
+        <text x="58" y="8" size="5" text="130"/>
+        <text x="-70" y="8" size="5" text="130"/>
+        <text x="58" y="18" size="5" text="130"/>
+        <text x="-70" y="18" size="5" text="130"/>
+        <text x="58" y="28" size="5" text="130"/>
+        <text x="-70" y="28" size="5" text="130"/>
+        <text x="58" y="38" size="5" text="130"/>
+        <text x="-70" y="38" size="5" text="130"/>
+        <text x="58" y="48" size="5" text="130"/>
+        <text x="-70" y="48" size="5" text="130"/>
+        <text x="58" y="58" size="5" text="130"/>
+        <text x="-70" y="58" size="5" text="130"/>
+        <text x="58" y="68" size="5" text="130"/>
+        <text x="-70" y="68" size="5" text="130"/>
+        <text x="-150" y="90" size="5" text="1"/>
+        <text x="137" y="90" size="5" text="26"/>
+        <text x="-150" y="100" size="5" text="27"/>
+        <text x="137" y="100" size="5" text="52"/>
+        <text x="-150" y="110" size="5" text="53"/>
+        <text x="137" y="110" size="5" text="78"/>
+        <text x="-150" y="120" size="5" text="79"/>
+        <text x="137" y="120" size="5" text="104"/>
+        <text x="-150" y="130" size="5" text="105"/>
+        <text x="137" y="130" size="5" text="130"/>
+    </description>
+</definition>
