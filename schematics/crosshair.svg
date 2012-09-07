@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="100" height="100" id="svg2" version="1.0">
-  <g id="layer" >
-    <path style="stroke: #ff0000; stroke-width:10;" d="M 50,1 L 50,35 z " id="up"/>
-    <path style="stroke: #ff0000; stroke-width:10;" d="M 50,65 L 50,100 z " id="down"/>
-    <path style="stroke: #ff0000; stroke-width:10;" d="M 35,50 L 0,50 z " id="left"/>
-    <path style="stroke: #ff0000; stroke-width:10;" d="M 100,50 L 65,50 z " id="right"/>
-	<circle style="stroke:#ff0000; stroke-width:10;" cx="50" cy="50" r="33" fill="none"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="109.29795"
+   height="107.45244"
+   id="svg2"
+   version="1.0"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="crosshair.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 50 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="100 : 50 : 1"
+       inkscape:persp3d-origin="50 : 33.333333 : 1"
+       id="perspective16" />
+    <inkscape:perspective
+       id="perspective3604"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3626"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3626-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="951"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="6.99"
+     inkscape:cx="54.140351"
+     inkscape:cy="54.31714"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer" />
+  <g
+     id="layer"
+     transform="translate(4.140351,3.135299)">
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:3.82857143;stroke-miterlimit:4;stroke-dasharray:none"
+       cx="50"
+       cy="50"
+       r="33"
+       id="circle8"
+       sodipodi:cx="50"
+       sodipodi:cy="50"
+       sodipodi:rx="33"
+       sodipodi:ry="33"
+       transform="matrix(0.52238806,0,0,0.52238806,24.143597,24.324247)"
+       d="M 83,50 C 83,68.225397 68.225397,83 50,83 31.774603,83 17,68.225397 17,50 17,31.774603 31.774603,17 50,17 68.225397,17 83,31.774603 83,50 z" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 105.1576,60.458817 -50.000002,-10 50.000002,-10 0,20 z"
+       id="path2822"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m -4.140351,60.502526 50.000002,-10 -50.000002,-10 0,20 z"
+       id="path2822-9"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 40.558135,104.31714 10,-50.000013 10,50.000013 -20,0 z"
+       id="path2822-90"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 60.204579,-3.135299 -10,49.999999 -9.999999,-49.999999 19.999999,0 z"
+       id="path2822-4"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
